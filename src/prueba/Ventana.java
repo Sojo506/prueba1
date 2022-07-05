@@ -78,7 +78,7 @@ public class Ventana extends javax.swing.JFrame {
         });
     }
     //Andy gay
-
+    // Chocoreto se fue al aya a traer agua
     // Variables declaration - do not modify//GEN-BEGIN:variables
     // End of variables declaration//GEN-END:variables
 }
