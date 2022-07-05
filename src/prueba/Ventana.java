@@ -77,6 +77,7 @@ public class Ventana extends javax.swing.JFrame {
             }
         });
     }
+    //Andy gay
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     // End of variables declaration//GEN-END:variables
